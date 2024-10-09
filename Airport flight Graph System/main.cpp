@@ -262,7 +262,7 @@ int main(){
     
     Flights.Connection(userSrcUpper, userDstUpper);
     
-    /*
+    
     Graph g;
     
     // Adding edges for a weakly connected graph
@@ -294,7 +294,7 @@ int main(){
     } else {
         cout << "The graph is not weakly connected" << endl;
     }
-    */
+    
     
     
     
